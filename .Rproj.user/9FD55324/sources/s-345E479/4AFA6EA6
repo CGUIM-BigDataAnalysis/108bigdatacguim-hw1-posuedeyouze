@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590329982804.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4AFA6EA6",
+    "lastKnownWriteTime" : -5496109388095178054,
+    "last_content_update" : 1590329982804,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "896C7CCA",
+        "caption" : "tablejoin",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tablejoin&cache_key=896C7CCA",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "expression" : "tablejoin",
+        "object" : "tablejoin",
+        "preview" : 0,
+        "totalObservations" : 10,
+        "variables" : 28
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

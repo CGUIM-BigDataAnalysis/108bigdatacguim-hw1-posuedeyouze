@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590317002098.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B3AFB61C",
+    "lastKnownWriteTime" : 1590330927,
+    "last_content_update" : 1590330927185,
+    "path" : "C:/Users/yin/Desktop/homework/108bigdatacguim-hw1-posuedeyouze/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "81,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

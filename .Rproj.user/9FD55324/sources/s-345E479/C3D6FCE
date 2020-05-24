@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590317000106.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4045056842",
+    "id" : "C3D6FCE",
+    "lastKnownWriteTime" : 1590332668,
+    "last_content_update" : 1590332668685,
+    "path" : "C:/Users/yin/Desktop/homework/108bigdatacguim-hw1-posuedeyouze/SalaryAnalysis.Rmd",
+    "project_path" : "SalaryAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "130,0",
+        "scrollLine" : "123"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
